@@ -1,10 +1,10 @@
-# class-scientific-computing
-KAIST EE "Scientific Computing" class. 
+# class-YHK-arXiv
+KAIST EE YHK class archives. 
 
 Instructor: Prof. Yong-Hoon Kim
 
-2021 Spring TA: Hyeonwoo Yeo & Ryong-Gyu Lee
+2021 Spring "Scientific Computing"; TA: Hyeonwoo Yeo & Ryong-Gyu Lee
 
-2020 Spring TA: Tae Hyung Kim  
+2020 Spring "Scientific Computing"; TA: Tae Hyung Kim  
 
-2019 Spring TA: Min Jong Noh & Dr. Junga Ryou  
+2019 Spring "Scientific Computing"; TA: Min Jong Noh & Dr. Junga Ryou  
