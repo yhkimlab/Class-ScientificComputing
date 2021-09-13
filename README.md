@@ -1,4 +1,4 @@
-# class-arXiv
+# class-YHK-arXiv
 KAIST EE YHK class archives. 
 
 Instructor: Prof. Yong-Hoon Kim
