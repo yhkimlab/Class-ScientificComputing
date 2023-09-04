@@ -1,5 +1,5 @@
 # YHKimClass-ScientificComputing
-KAIST EE Yong-Hoon Kim Lab "Scientific Computing" class. 
+KAIST EE Yong-Hoon Kim "Scientific Computing" class. 
 
 Instructor: Prof. Yong-Hoon Kim
 
